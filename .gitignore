@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints
+data/external/
+data/processed/
+docs
+Kaggle_dataset_Chauvenet
+models
+references
+reports
+fitness_tracker.code-workspace
+pasted image 0.png
